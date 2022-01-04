@@ -1,0 +1,38 @@
+.input-field {
+    width: 45%;
+    font-size: 2rem;
+    border-radius: .3em;
+    opacity: 80%;
+    border: solid 1px #3a3a3a;
+    text-indent: 10px;
+}
+
+.input-field:focus {
+    outline: #A626D3 solid 1px;
+}
+
+.form-input-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form {
+    width: 80%;
+    margin: 2em auto;
+}
+
+.btn {
+    margin-top: 2em;
+    width: 100%;
+    background: linear-gradient(to left, #672280, #A626D3);
+    color: white;
+    font-size: 2rem;
+    border-radius: .3em;
+    border: none;
+    padding: .5em;
+}
+
+.btn:hover {
+    cursor: pointer;
+    opacity: 80%;
+}
