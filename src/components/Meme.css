@@ -36,3 +36,9 @@
     cursor: pointer;
     opacity: 80%;
 }
+
+.memeImg {
+    margin: 1em auto;
+    max-width: 50%;
+    max-height: 60vh;
+}
