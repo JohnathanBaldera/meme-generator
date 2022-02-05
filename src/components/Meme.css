@@ -37,8 +37,25 @@
     opacity: 80%;
 }
 
-.memeImg {
+.memeDiv {
     margin: 1em auto;
     max-width: 50%;
     max-height: 60vh;
+}
+
+.memeText {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2em;
+    position: absolute;
+    left: 0;
+    right: 0;
+    color: #fff;
+    text-shadow: 2px 2px #000;
+    max-width: 40%;
+    margin: auto;
+}
+
+.bottomText {
+    margin-top: -2em;
 }
